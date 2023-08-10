@@ -23,6 +23,11 @@
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
+## 🏆 GitHub Trophies
+<a href="https://github.com/Nishantptl/github-profile-trophy">
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Nishantptl&column=8&theme=tokyonight&no-frame=true"/>
+</a>
+
 
 
 
