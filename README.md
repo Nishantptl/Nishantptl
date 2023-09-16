@@ -9,7 +9,7 @@
 <br>
 🌱I’m currently learning kotlin language.
 <br>
-📫 How to reach me: np179756@gmail.com
+📫 How to reach me: <a href="np179756@gmail.com">np179756@gmail.com</a>
 <br>
 
 </h3>
